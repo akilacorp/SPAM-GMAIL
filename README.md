@@ -71,16 +71,14 @@ Para usar o SPAM GEMAIL AESCORP, você precisa configurar uma senha de aplicativ
 ## ⚠️ Aviso Legal
 Este software é apenas para fins educacionais. O uso indevido para spam ou atividades maliciosas é estritamente proibido. O desenvolvedor não se responsabiliza pelo uso indevido desta ferramenta.
 
-## 📄 Licença
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ## 🤝 Contribuindo
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
 
 ## 📧 Contato
 Para dúvidas ou sugestões, entre em contato:
-- Email: seu-email@exemplo.com
-- GitHub: [@seu-usuario](https://github.com/seu-usuario)
+- Email: byaescorp@gmail.com
+- GitHub: [@seu-usuario](https://github.com/akilacorp)
 
 ---
 

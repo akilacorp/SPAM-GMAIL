@@ -2,10 +2,6 @@
 
 <div align="center">
   
-![GitHub stars](https://img.shields.io/github/stars/seu-usuario/spam-gemail-aescorp?style=social)
-![GitHub forks](https://img.shields.io/github/forks/seu-usuario/spam-gemail-aescorp?style=social)
-![GitHub license](https://img.shields.io/github/license/seu-usuario/spam-gemail-aescorp)
-
 </div>
 
 ## 📝 Descrição

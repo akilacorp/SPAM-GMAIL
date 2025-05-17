@@ -74,12 +74,12 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar
 ## 📧 Contato
 Para dúvidas ou sugestões, entre em contato:
 - Email: byaescorp@gmail.com
-- GitHub: [@seu-usuario](https://github.com/akilacorp)
+- GitHub: https://github.com/akilacorp
 
 ---
 
 <div align="center">
   
-Made with ❤️ by AESCORP
+Desenvolvido ❤️ by AESCORP
 
 </div> 
